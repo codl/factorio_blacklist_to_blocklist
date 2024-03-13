@@ -36,7 +36,7 @@ def main() -> None:
         )
 
     outfile = outdir / ("{}_{}.zip".format(info["name"], info["version"]))
-    if outfile.exists:
+    if outfile.exists():
         outfile.unlink()
 
     subprocess.run(
