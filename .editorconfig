@@ -1,0 +1,5 @@
+[*]
+indent_style=tab
+
+[blacklist_to_blocklist/changelog.txt]
+indent_style=space
