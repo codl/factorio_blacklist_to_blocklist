@@ -3,6 +3,7 @@ Version: 0.2.0
 Date: 2025-M06-22
   Major Features:
     - Update strings for Factorio 2.0. Thanks to killerbee13.
+    - Add /allowlist function reminding you to use /whitelist instead.
 
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.0
