@@ -1,0 +1,10 @@
+{
+	"name": "blacklist_to_blocklist",
+	"version": "0.2.0",
+	"title": "Blacklist to Blocklist",
+	"author": "codl",
+	"contact": "codl@codl.fr",
+	"factorio_version": "2.0",
+	"dependencies": [],
+	"description": "Replaces \"Blacklist\" and \"Whitelist\" with \"Blocklist\" and \"Allowlist\", other than in reference to the name of the /whitelist command."
+}
